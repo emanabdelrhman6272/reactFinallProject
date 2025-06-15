@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "fullname": "Eman Soliman",
+      "email": "emansoliman@gmil.com",
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "fullname": "Eman Abdelrhman",
+      "email": "eman@gmail.com",
+      "password": "6342672763",
+      "id": 2
+    },
+    {
+      "fullname": "Salma Soliman",
+      "email": "salma@gmail.com",
+      "password": "6466466364",
+      "id": 3
+    },
+    {
+      "fullname": "eman",
+      "email": "eman12@gmail.com",
+      "password": "35353663673",
+      "id": 4
+    },
+    {
+      "fullname": "eman",
+      "email": "aembbs@gmail.com",
+      "password": "233444",
+      "id": 5
+    },
+    {
+      "fullname": "eman",
+      "email": "dfffggg@gmail.com",
+      "password": "55666677",
+      "id": 6
+    },
+    {
+      "fullname": "eman",
+      "email": "ema22n@gmail.com",
+      "password": "123456789",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "title": "Cartoons",
+      "description": "Cartoons play a vital role in children's development by offering numerous educational and emotional benefits. They help children learn complex ideas more easily through engaging visuals and stories, which stimulate imagination and creativity. ",
+      "image_url": "http://localhost:3001/imgs/postImage2.jpg",
+      "id": 5
+    },
+    {
+      "title": "Catrtoons",
+      "description": "Cartoons improve language skills by introducing new vocabulary and enhancing pronunciation, while also fostering cognitive abilities such as problem-solving, critical thinking, and memory. Emotionally, cartoons teach valuable life lessons about empathy, kindness, and social interactions, helping children understand and express their feelings.",
+      "image_url": "http://localhost:3001/imgs/postImage1.jpg",
+      "id": 6
+    },
+    {
+      "title": "Catrtoons3",
+      "description": "Cartoons improve language skills by introducing new vocabulary and enhancing pronunciation, while also fostering cognitive abilities such as problem-solving, critical thinking, and memory. Emotionally, cartoons teach valuable life lessons about empathy, kindness, and social interactions, helping children understand and express their feelings.",
+      "image_url": "http://localhost:3001/imgs/postImage3.jpg",
+      "id": 6
+    },
+    {
+      "title": "Public Url Image",
+      "description": "Public URL Image for cartoon to check public URL work or not. to Ensure it works successfully..",
+      "image_url": "https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/male/5.png",
+      "id": 7
+    }
+  ]
+}
